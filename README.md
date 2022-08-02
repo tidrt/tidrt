@@ -1,5 +1,5 @@
 - ### Hello World!
-- ☕ Atualmente estudando Java e Desenvolvimento Web Completo; 
+- ☕ Atualmente estudando Java e Orientação a Objetos 
  
  ##
  
