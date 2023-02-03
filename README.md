@@ -24,6 +24,6 @@
 
 ### <img src="https://media.giphy.com/media/8Am4Njdu7imzLbnIhc/giphy.gif" width="20"> Some of my Stats:
 <div align="center">
-	<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tidrt&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"></img>
-	<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tidrt&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"></img>
+	<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tidrt&theme=algolia&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"></img>
+	<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tidrt&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117"></img>
 </div>
