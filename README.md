@@ -1,5 +1,6 @@
 <h2>Hi, i'm Tiago! <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="30"></h2>
 <img src="https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif" align="right" width="400">
+<p>Back-end Developer learning Front-end<img src="https://media.giphy.com/media/8cMMs939wIlDWO8pB7/giphy.gif" width="30"></p>
 
 [![Twitter: tigodrt](https://img.shields.io/twitter/follow/tigodrt?style=social)](https://twitter.com/tigodrt)
 [![Linkedin: tidrt](https://img.shields.io/badge/-tidrt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tidrt/)](https://www.linkedin.com/in/tidrt/)
